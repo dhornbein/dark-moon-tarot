@@ -1,0 +1,16 @@
+{
+  "name": "thedarkmoontarot.com",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bulma": "^0.8.0",
+    "node-sass": "^4.13.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "watch-sass": "node-sass assets/style.scss assets/style.css --watch"
+  },
+  "author": "Drew Hornbein",
+  "license": "ISC"
+}
