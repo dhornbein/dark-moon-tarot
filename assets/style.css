@@ -1181,6 +1181,7 @@ img {
 
 .logo {
   max-width: 65ch;
+  width: 100%;
   height: auto; }
 
 .overlay-text {
